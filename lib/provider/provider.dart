@@ -1,0 +1,16 @@
+export './accountManagerProvider.dart';
+export './caservicesprovider/ca_services_provider.dart';
+export './connectivity_provider.dart';
+export './earn_providers/earn_screen_provider.dart';
+export './earn_providers/offers_details_provider.dart';
+export './education_providers/community_provider.dart';
+export './education_providers/education_provider.dart';
+export './education_providers/student_dashboard_provider.dart';
+export './loginSignUpProvider.dart';
+export './parent_provider/parent_provider.dart';
+export './pod_provider/pod_provider.dart';
+export './rechargeServiceProvider.dart';
+export './scholorshipProvider.dart';
+export './setingsProvider.dart';
+export './userdataprovider/userdataprovider.dart';
+export './walletProvider.dart';

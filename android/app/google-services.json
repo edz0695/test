@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "773473432182",
+    "project_id": "sambhav-11d6e",
+    "storage_bucket": "sambhav-11d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773473432182:android:116e28c2d74cdef428e557",
+        "android_client_info": {
+          "package_name": "com.sambhavapps.sambhav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773473432182-7hqbor24s5tmljisg92qeet38nifml22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sambhavapps.sambhav",
+            "certificate_hash": "80d5794ae5a9878b8877d8ef1c2d0cf16ce47385"
+          }
+        },
+        {
+          "client_id": "773473432182-tprh64m8g1eoqp9nl4dfig8tgbi3jd9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sambhavapps.sambhav",
+            "certificate_hash": "bd2c757fddf938632287a871d709c25ed02a7f95"
+          }
+        },
+        {
+          "client_id": "773473432182-mc6o3i2obhicnb2q04id6tuktk5ons6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuoT0sU1wTRFmaTPjD_I5FB271xfAzQTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773473432182-mc6o3i2obhicnb2q04id6tuktk5ons6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773473432182-pjfpvgils293gnvnq4imqlmcbksq5n8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.6amMart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
